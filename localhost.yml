@@ -90,6 +90,7 @@
       - { name: vagrant }
       - { name: virtualbox }
       - { name: github-desktop }
+      - { name: vlc }
 
   tasks:
     - name: homebrew の tap リポジトリを追加
